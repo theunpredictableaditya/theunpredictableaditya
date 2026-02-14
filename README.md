@@ -50,5 +50,5 @@
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/theunpreddictableaditya" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Aditya Kumar Gupta" /></a>
+<a href="https://www.linkedin.com/in/theunpredictableaditya/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Aditya Kumar Gupta" /></a>
 </p>
