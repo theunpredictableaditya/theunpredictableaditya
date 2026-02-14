@@ -42,13 +42,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theunpredictableaditya&theme=neon&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunpredictableaditya&layout=compact&theme=neon&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Aditya Kumar Gupta" /></a>
+<a href="https://linkedin.com/in/theunpreddictableaditya" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Aditya Kumar Gupta" /></a>
 </p>
